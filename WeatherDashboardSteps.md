@@ -143,11 +143,14 @@
 ![image](https://github.com/user-attachments/assets/4898673e-dfa6-4ebb-b509-2a0528001fe2)
 
 
-19. Head to AWS S3 Bucket service and validate weather dashboard was created. Lool uder "General purpose buckets"
+19. Head to AWS S3 Bucket service and validate weather dashboard was created. Look under "General purpose buckets"
 
      ![image](https://github.com/user-attachments/assets/5630be47-0266-441d-9f2c-37bd95d805a9)
 
 18. Click your weather dashboard to see all 3 objects created.
+
+![image](https://github.com/user-attachments/assets/2dabae56-e461-4e66-b542-13d15efb8755)
+
 
 ![image](https://github.com/user-attachments/assets/a69cf383-5ddc-44a2-855b-38d16b0620c7)
 
