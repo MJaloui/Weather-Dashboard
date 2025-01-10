@@ -147,9 +147,11 @@
 
      ![image](https://github.com/user-attachments/assets/5630be47-0266-441d-9f2c-37bd95d805a9)
 
-18. Click your weather dashboard to see all 3 objects created.
+18. Click your on weather-dashboard, then weather-data to see all 3 objects created.
 
 ![image](https://github.com/user-attachments/assets/2dabae56-e461-4e66-b542-13d15efb8755)
+
+![image](https://github.com/user-attachments/assets/4de5fc0b-d330-4cfb-8b91-c7950b92941e)
 
 
 ![image](https://github.com/user-attachments/assets/a69cf383-5ddc-44a2-855b-38d16b0620c7)
