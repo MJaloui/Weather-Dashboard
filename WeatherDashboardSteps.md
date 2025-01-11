@@ -22,6 +22,7 @@ sudo apt install
 
 
 ### 3. Create a folder for this project in your VM and change to that directory. (you can name it whatever you want)
+  
    Enter cmd:
    ```bash
 WeatherDashboard
@@ -32,6 +33,7 @@ WeatherDashboard
 
 
 ### 4. In this folder create 3 directories names src, tests, and data.
+  
    Enter cmd:
    ```bash
 mkdir src tests data
@@ -42,6 +44,7 @@ mkdir src tests data
 
 
 ### 5. Create two files with python extensions in the src directory. These file are for the weather dashboard and init script.
+   
    Enter cmd:
    ```bash
 touch src/__init__.py src/weather_dashboard.py
@@ -53,7 +56,7 @@ touch src/__init__.py src/weather_dashboard.py
 
 
 ### 6. Create 3 more files in your current directory. This will be a text file, a markdown file, and an environment variable file.
-   requirements.txt, README.md, .env
+  
    Enter cmd:
    ```bash
 touch requirements.txt, README.md, .env
@@ -65,8 +68,13 @@ touch requirements.txt, README.md, .env
 
 
 ### 7. Install git if you do not already have it installed.
-   Enter cmd: sudo apt install git
-   Enter "y" when prompted to continue
+  
+   Enter cmd: 
+   ```bash
+sudo apt install git
+```
+
+   Enter "y" when prompted to continue.
 
 <img src="https://github.com/user-attachments/assets/f00f49b7-f0be-47f8-bee5-6bb5e5e73dc1" width="75%" />
 
@@ -74,7 +82,11 @@ touch requirements.txt, README.md, .env
 
 
 ### 8. Initialize git.
-   Enter cmd: git init
+  
+   Enter cmd:
+   ```bash
+git init
+```
 
 <img src="https://github.com/user-attachments/assets/44fceb35-dae0-4a2d-9eee-4c54ac623ddf" width="75%" />
 
@@ -82,15 +94,24 @@ touch requirements.txt, README.md, .env
 
 
 ### 9. Name your git branch to "main".
-   Enter cmd: git branch -M main
+   
+   Enter cmd:
+```bash
+git branch -M main
+```
 
 <img src="https://github.com/user-attachments/assets/1f2bc842-74d4-458f-848d-8b6126296b89" width="75%" />
 
 
 
 
-### 10. Ignore python cache and zip from git.
+### 10. Ignore python cache files and any zip files from git repository.
+    
     Enter cmd:
+```bash
+echo "__pycache__/" >> .gitignore
+echo "*.zip" >> .gitignore
+```
 
 <img src="https://github.com/user-attachments/assets/210c419f-3aee-40f8-aa06-1c500311de26" width="75%" />
 
