@@ -21,9 +21,11 @@ sudo apt install
 
 
 
-### 3. Create a folder for this project in your VM and change to that directory.
+### 3. Create a folder for this project in your VM and change to that directory. (you can name it whatever you want)
    Enter cmd:
-   
+   ```bash
+WeatherDashboard
+```   
 <img src="https://github.com/user-attachments/assets/97dec451-68ec-48bc-bf85-fa4f48414f63" width="75%" />
 
 
@@ -31,7 +33,9 @@ sudo apt install
 
 ### 4. In this folder create 3 directories names src, tests, and data.
    Enter cmd:
-   
+   ```bash
+mkdir src tests data
+```   
 <img src="https://github.com/user-attachments/assets/9d221be3-a525-4363-8a5d-7a64b0efbfd2" width="75%" />
 
 
@@ -39,6 +43,9 @@ sudo apt install
 
 ### 5. Create two files with python extensions in the src directory. These file are for the weather dashboard and init script.
    Enter cmd:
+   ```bash
+touch src/__init__.py src/weather_dashboard.py
+```
    
 <img src="https://github.com/user-attachments/assets/c7ec1cd6-1439-4714-9019-3f4cf7a8d15a" width="75%" />
 
@@ -46,8 +53,10 @@ sudo apt install
 
 
 ### 6. Create 3 more files in your current directory. This will be a text file, a markdown file, and an environment variable file.
-   Requirements.txt, README.md, .env
+   requirements.txt, README.md, .env
    Enter cmd:
+   ```bash
+touch requirements.txt, README.md, .env
    
 <img src="https://github.com/user-attachments/assets/6c691119-ffae-4ca7-aecc-b871ddf37147" width="75%" />
 
