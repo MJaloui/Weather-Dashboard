@@ -68,9 +68,9 @@ touch requirements.txt, README.md, .env
 
 
 ### 7. Install git if you do not already have it installed.
-  
-   Enter cmd: 
-   ```bash
+
+Enter cmd:
+```bash
 sudo apt install git
 ```
 
@@ -137,22 +137,35 @@ echo "requests==2.28.2" >> requirements.txt
 
 
 ### 12. Install python3 pip if you do not have it.
-    Enter cmd: sudo apt install python3-pip
+
+Enter cmd:
+```bash
+    sudo apt install python3-pip
+```
+    
     Enter "y" when prompted to continue
 
-    If that doesn't work:
-    Enter cmd: python3 -m venv venv
-    Enter cmd: sudo apt install python3.12-venv
-    Enter cmd: python3 -m venv venv
-    Enter cmd: source venv/bin/activate
+    If the above command doesn't work, you may need to install the python3-venv package and create a Python virtual environment to install python3-pip.
+
+    Enter cmd:
+```bash
+    python3 -m venv venv
+    sudo apt install python3.12-venv
+    python3 -m venv venv
+    source venv/bin/activate
+```
 
 <img src="https://github.com/user-attachments/assets/e5e4c6d4-1e1b-425c-ad3d-e971c6acb4ce" width="75%" />
 
 
 
 
-### 13. Install pip to the requirements txt file.
-    Enter cmd: pip install -r requirements.txt
+### 13. Install pip dependencies to the requirements txt file.
+    
+    Enter cmd:
+```bash
+pip install -r requirements.txt
+```
 
 <img src="https://github.com/user-attachments/assets/f431083f-347b-4c29-98df-3648fbef6126" width="75%" />
 
@@ -160,7 +173,10 @@ echo "requests==2.28.2" >> requirements.txt
 
 
 ### 14. Configure AWS to enter credentials for access.
-    Enter cmd: aws configure
+    Enter cmd:
+```bash
+aws configure
+``
 
 <img src="https://github.com/user-attachments/assets/d551797c-8d6d-48ed-b44c-fd37db0f3a97" width="75%" />
 
