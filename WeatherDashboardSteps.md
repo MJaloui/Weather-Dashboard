@@ -139,12 +139,12 @@ Enter cmd:
 ```bash
     sudo apt install python3-pip
 ```
-    
-    Enter "y" when prompted to continue
 
-    If the above command doesn't work, you may need to install the python3-venv package and create a Python virtual environment to install python3-pip.
+Enter "y" when prompted to continue.
 
-    Enter cmd:
+If the above command doesn't work, you may need to install the python3-venv package and create a Python virtual environment to install python3-pip.
+
+Enter cmd:
 ```bash
     python3 -m venv venv
     sudo apt install python3.12-venv
