@@ -57,6 +57,7 @@ touch src/__init__.py src/weather_dashboard.py
    Enter cmd:
    ```bash
 touch requirements.txt, README.md, .env
+```
    
 <img src="https://github.com/user-attachments/assets/6c691119-ffae-4ca7-aecc-b871ddf37147" width="75%" />
 
