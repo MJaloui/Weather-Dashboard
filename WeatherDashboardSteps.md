@@ -106,8 +106,8 @@ git branch -M main
 
 
 ### 10. Ignore python cache files and any zip files from git repository.
-    
-    Enter cmd:
+
+Enter cmd:
 ```bash
 echo "__pycache__/" >> .gitignore
 echo "*.zip" >> .gitignore
@@ -118,7 +118,18 @@ echo "*.zip" >> .gitignore
 
 
 
-### 11. Create 3 variables and redirect to the requirements file using echo cmd.
+### 11. Append 3 packages to the requirements text file using echo cmd. Specify the version for package. 
+
+boto3: A library for interacting with Amazon Web Services (AWS) to manage cloud resources.
+python-dotenv: A tool to load environment variables from a .env file into your Python app, for managing sensitive data like API keys.
+requests: A library for making HTTP requests, such as sending and receiving data from websites or APIs.
+
+Enter cmd:
+```bash
+echo "boto3==1.26.137" >> requirements.txt
+echo "python-dotenv==1.0.0" >> requirements.txt
+echo "requests==2.28.2" >> requirements.txt
+```
 
 <img src="https://github.com/user-attachments/assets/31e2ede0-1bcb-4736-9c5d-7b68b949676d" width="75%" />
 
