@@ -158,8 +158,8 @@ Enter cmd:
 
 
 ### 13. Install pip dependencies to the requirements txt file.
-    
-    Enter cmd:
+
+Enter cmd:
 ```bash
 pip install -r requirements.txt
 ```
@@ -170,6 +170,7 @@ pip install -r requirements.txt
 
 
 ### 14. Configure AWS to enter credentials for access.
+
 Enter cmd:
 ```bash
 aws configure
