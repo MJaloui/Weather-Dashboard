@@ -170,10 +170,10 @@ pip install -r requirements.txt
 
 
 ### 14. Configure AWS to enter credentials for access.
-    Enter cmd:
+Enter cmd:
 ```bash
 aws configure
-``
+```
 
 <img src="https://github.com/user-attachments/assets/d551797c-8d6d-48ed-b44c-fd37db0f3a97" width="75%" />
 
