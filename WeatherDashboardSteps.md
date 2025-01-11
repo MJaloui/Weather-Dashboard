@@ -187,11 +187,11 @@ sudo apt install
 ### 1. Head to Open Weather Map website to create an account and generate your API key.
  ( https://openweathermap.org/ )
 
-<img src="https://github.com/user-attachments/assets/094f2a88-9e7d-471d-8f4c-4a25e9f48c3d" width="50%" />
+<img src="https://github.com/user-attachments/assets/094f2a88-9e7d-471d-8f4c-4a25e9f48c3d" width="75%" />
 
 ### 2. You will need to copy this generated key later
 
-<img src="https://github.com/user-attachments/assets/848e2ad3-e31f-4b08-8914-dc5b4cc02a65" width="50%" />
+<img src="https://github.com/user-attachments/assets/848e2ad3-e31f-4b08-8914-dc5b4cc02a65" width="75%" />
 
 ### 3. Create a folder for this project in your VM and change to that directory.
    Enter cmd:
