@@ -184,15 +184,20 @@ aws configure
 ### 15. Log into your AWS account. You will need to get your "AWS Access Key ID", "AWS Secret Access Key", "Default region name".
 
 
+
+
+
 ### 16. Click on "IAM" service. 
 
 ![image](https://github.com/user-attachments/assets/ff5a7de0-766e-4f68-8fc5-64d9e8fc4ef1)
 
 
+
 ### 17. Scroll down to Access Keys and click "Create access key".
 
-
 <img src="https://github.com/user-attachments/assets/e2f56f25-a0ac-4644-8f49-88e98045866e" width="75%" />
+
+
 
 ### 18. Check the box to agree with "creating a root access key is not a best practice". Then Click the orange "Create access key".
 
@@ -206,30 +211,45 @@ aws configure
   
 <img src="https://github.com/user-attachments/assets/75722d5d-7756-45db-b259-52a25d1f56d2" width="75%" />
 
-   - Default output will be "JSON"
+
+
+
+### 19. Paste your copied Access key ID, Secret Access key, Default region name for your AWS configuration output.The default output will be "JSON"
 
 <img src="https://github.com/user-attachments/assets/5040b3a3-79a3-4d25-95d3-cbe43c30cbbf" width="75%" />
 
 
 
 
-### 19. Create a variable for the Weather API Key and redirect to the environment variable file.
-      Enter cmd:
+### 20. Append your weather API key to the environment variable file.
+
+Enter cmd:
+```bash
+echo "Enter_Your_API_KEY_HERE" >> .env
+```
 
 <img src="https://github.com/user-attachments/assets/f657290c-588c-4eaf-a3ce-3080c7703186" width="75%" />
 
 
 
 
-### 20. Create a variable for a randomly generated s3 bucket name that is redirected to the environment variable file.
+### 21. create a randomly generated S3 bucket name for your weather dashboard that appends to the environment variable file.
+
+Enter cmd:
+```Bash
+echo "AWS_BUCKET_NAME=weather-dashboard-${RANDOM}" >> .env
+```
 
 <img src="https://github.com/user-attachments/assets/94024aa2-2043-496f-8e35-e9a2ad26582b" width="75%" />
 
 
 
-
-### 21. Add Python to the weather dashboard Python file in the src directory to save data in the S3 Bucket.
-    Enter cmd:
+### 22. Run your weather dashboard script located in the src using python3.
+  
+Enter cmd:
+```bash
+python3 src/weather_dashboard.py
+```
 
 <img src="https://github.com/user-attachments/assets/784550d8-a329-454b-953a-7aad729e2659" width="75%" />
 
@@ -239,14 +259,14 @@ aws configure
 
 
 
-### 22. Head to AWS S3 Bucket service and validate the weather dashboard was created. Look under "General purpose buckets"
+### 23. Head to AWS S3 Bucket service and validate the weather dashboard was created. Look under "General purpose buckets"
 
 <img src="https://github.com/user-attachments/assets/5630be47-0266-441d-9f2c-37bd95d805a9" width="75%" />
 
 
 
 
-### 23. Click on your weather-dashboard, then weather-data to see all 3 objects created.
+### 24. Click on your "weather-dashboard-12345", then "weather-data/" to see all 3 objects created.
 
 <img src="https://github.com/user-attachments/assets/2dabae56-e461-4e66-b542-13d15efb8755" width="75%" />
 
