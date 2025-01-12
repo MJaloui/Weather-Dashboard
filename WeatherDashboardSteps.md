@@ -191,7 +191,7 @@ aws configure
 
 ### 17. Scroll down to Access Keys and click "Create access key".
 
-<img src="https://github.com/user-attachments/assets/7128fcb7-9652-4523-b473-ec62724adf7)" width="75%" />
+<img src="https://github.com/user-attachments/assets/7128fcb7-9652-4523-b473-ec62724adf7" width="75%" />
 
 
    - AWS Access Key ID and Secret Access Key is located in the IAM service: click "Security credentials", then "Create access key"
