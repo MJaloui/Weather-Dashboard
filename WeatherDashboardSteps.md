@@ -181,7 +181,18 @@ aws configure
 
 
 
-### 15. Log into your AWS account to get your "AWS Access Key ID", "AWS Secret Access Key", "Default region name", and "Default output format"
+### 15. Log into your AWS account. You will need to get your "AWS Access Key ID", "AWS Secret Access Key", "Default region name".
+
+
+### 16. Click on "IAM" service. 
+
+![image](https://github.com/user-attachments/assets/ff5a7de0-766e-4f68-8fc5-64d9e8fc4ef1)
+
+
+### 17. Scroll down to Access Keys and click "Create access key".
+
+<img src="![image](https://github.com/user-attachments/assets/7128fcb7-9652-4523-b473-ec62724adf7a)" width="75%" />
+
 
    - AWS Access Key ID and Secret Access Key is located in the IAM service: click "Security credentials", then "Create access key"
 
