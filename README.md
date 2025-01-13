@@ -42,10 +42,13 @@ weather-dashboard/
   .gitignore
   requirements.txt
 
+
 ## Setup Instructions
-1. Clone the repository:
---bash
-git clone https://
+1. Clone the repository 
+```bash
+git clone https://github.com/MJaloui/weather---dashboard
+'''
+
 
 3. Install dependencies:
 bashCopypip install -r requirements.txt
