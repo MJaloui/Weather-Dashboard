@@ -13,7 +13,6 @@
 
 🌪️ It also demonstrates how to manage your environment and make sure all the tools your project needs are installed and set up correctly.
 
----
 
 ## **Capabilities**
 🔧 Fetches real-time weather data for multiple cities
@@ -27,17 +26,7 @@
 🔧 Timestamps all data for historical tracking
 
 
-## **Prerequisites**
-Free account subscription and an OpenWeather API Key at [OpenWeather API](https://openweathermap.org/api)
-
-
-## **Technical Architecture**
-
-
-
----
-
-## **Technologies**
+## **⚙️Technologies⚙️**
 - **Cloud Provider**: AWS
 - **Core Services**: S3
 - **External API**: OpenWeather API
@@ -49,6 +38,16 @@ Free account subscription and an OpenWeather API Key at [OpenWeather API](https:
 - **Infrastructure as Code**: AWS resource management through scripts
 
 ---
+
+## **Technical Architecture**
+
+
+
+---
+
+## **Prerequisites**
+Free account subscription and an OpenWeather API Key at [OpenWeather API](https://openweathermap.org/api)
+
 
 ## **Setup Instructions**
 
