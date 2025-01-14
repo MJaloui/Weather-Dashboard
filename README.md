@@ -50,7 +50,7 @@ Free account subscription and an OpenWeather API Key at [OpenWeather API](https:
 
 ---
 
-##**Setup Instructions**
+## **Setup Instructions**
 
 1. Clone the repository 
 ```bash
