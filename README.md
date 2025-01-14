@@ -26,16 +26,24 @@
 🔧 Timestamps all data for historical tracking
 
 
-## **⚙️Technologies⚙️**
-- **Cloud Provider**: AWS
-- **Core Services**: S3
-- **External API**: OpenWeather API
-- **Programming Language**: Python 3.x
-- **Version Control**: Git
-- **Environment Management**: Environment Variables
-- **Error Handling**: Custom error handling in Python
-- **IAM Security**: Secure management of API keys and AWS credentials
-- **Infrastructure as Code**: AWS resource management through scripts
+## **Technologies**
+⚙️ **Cloud Provider**: AWS
+
+⚙️ **Core Services**: S3
+
+⚙️ **External API**: OpenWeather API
+
+⚙️ **Programming Language**: Python 3.x
+
+⚙️ **Version Control**: Git
+
+⚙️ **Environment Management**: Environment Variables
+
+⚙️ **Error Handling**: Custom error handling in Python
+
+⚙️ **IAM Security**: Secure management of API keys and AWS credentials
+
+⚙️ **Infrastructure as Code**: AWS resource management through scripts
 
 ---
 
