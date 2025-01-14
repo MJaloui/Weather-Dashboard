@@ -72,7 +72,7 @@ python src/weather_dashboard.py
 
 ---
 
-Key Takeaways
+## **Key Takeaways**
 
 ✔️ AWS S3 bucket creation and management
 
@@ -86,7 +86,7 @@ Key Takeaways
 
 ✔️ Cloud resource management
 
-Opportunitues for Growth
+## **Opportunitues for Growth**
 
 🌱 Add weather forecasting.
 
