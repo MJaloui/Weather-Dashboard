@@ -68,7 +68,7 @@ AWS_BUCKET_NAME=your_bucket_name
 bashCopyaws configure
 
 5. Run the application:
-python src/weather_dashboard.py
+   python src/weather_dashboard.py
 
 ---
 
