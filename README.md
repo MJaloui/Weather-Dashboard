@@ -57,7 +57,7 @@
 Free account subscription and an OpenWeather API Key at [OpenWeather API](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md)
 
 
-## **Setup Instructions** ❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md) ❗
+## **Setup Instructions**    ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md) ❗⬅️
 
 
 
