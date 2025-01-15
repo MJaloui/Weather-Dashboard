@@ -54,10 +54,12 @@
 ---
 
 ## **Prerequisites**
-Free account subscription and an OpenWeather API Key at [OpenWeather API](https://openweathermap.org/api)
+Free account subscription and an OpenWeather API Key at [OpenWeather API](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md)
 
 
-## **Setup Instructions**
+## **Setup Instructions** ❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md) ❗
+
+
 
 1. Clone the repository 
 ```bash
