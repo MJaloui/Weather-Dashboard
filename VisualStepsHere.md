@@ -8,6 +8,12 @@
 
 &nbsp;
 
+
+
+## **Steps:**
+
+
+
 ### 1. Head to Open Weather Map website to create an account and generate your API key.
  ( https://openweathermap.org/ )
 
