@@ -45,19 +45,18 @@
 
 ⚙️ **Infrastructure as Code**: AWS resource management through scripts
 
----
-
-## **Technical Architecture**
-
 
 
 ---
+
+
 
 ## **Prerequisites**
 Free account subscription and an OpenWeather API Key at [OpenWeather API](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md)
 
 
-## **Setup Instructions**    ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md) ❗⬅️
+
+## **Steps**    ➡️❗ [Click Here To View Detailed Visual Steps](https://github.com/MJaloui/Weather---dashboard/blob/main/VisualStepsHere.md) ❗⬅️
 
 
 
@@ -107,4 +106,8 @@ bashCopyaws configure
 
 🌱 Set up CI/CD pipeline
 
+
+
+---
+## **Technical Architecture**
 
