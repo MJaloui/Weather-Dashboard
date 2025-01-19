@@ -1,10 +1,12 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/fb42157b-093a-420d-8b69-372b0c74496f)
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-
-
+&nbsp;
 
 ### 1. Head to Open Weather Map website to create an account and generate your API key.
  ( https://openweathermap.org/ )
