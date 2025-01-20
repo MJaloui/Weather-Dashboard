@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/9af14640-b6e9-4270-ad3c-b7c2fd356da1)
 
 
-## **Project Highlights**
+## **🔷 Project Highlights 🔷**
 
 🌦️ This project shows the current weather to users based on where they are.
 
@@ -27,6 +27,7 @@
 
 
 ## **🚨 Technologies 🚨**
+
 🔹 **Cloud Provider**: AWS
 
 🔹 **Core Services**: S3
@@ -65,18 +66,13 @@ Free account subscription and an OpenWeather API Key at [OpenWeather API](https:
 git clone https://github.com/MJaloui/weather---dashboard
 ```
 
-2. Install dependencies:
-bashCopypip install -r requirements.txt
+2. Install Python packages a .txt file.
 
-3. Configure environment variables (.env):
-CopyOPENWEATHER_API_KEY=your_api_key
-AWS_BUCKET_NAME=your_bucket_name
+3. Configure environment variables (.env).
 
-4. Configure AWS credentials:
-bashCopyaws configure
+4. Configure AWS credentials.
 
-5. Run the application:
-   python src/weather_dashboard.py
+5. Run the application using Python3.
 
 ---
 
