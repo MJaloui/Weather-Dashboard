@@ -14,36 +14,36 @@
 🌪️ It also demonstrates how to manage your environment and make sure all the tools your project needs are installed and set up correctly.
 
 
-## **Capabilities**
-🔧 Fetches real-time weather data for multiple cities
+## **🔧 Capabilities 🔧**
+🔹 Fetches real-time weather data for multiple cities
 
-🔧 Displays temperature (°F), humidity, and weather conditions
+🔹 Displays temperature (°F), humidity, and weather conditions
 
-🔧 Automatically stores weather data in AWS S3
+🔹 Automatically stores weather data in AWS S3
 
-🔧 Supports multiple cities tracking
+🔹 Supports multiple cities tracking
 
-🔧 Timestamps all data for historical tracking
+🔹 Timestamps all data for historical tracking
 
 
-## **Technologies**
-⚙️ **Cloud Provider**: AWS
+## **🚨 Technologies 🚨**
+🔹 **Cloud Provider**: AWS
 
-⚙️ **Core Services**: S3
+🔹 **Core Services**: S3
 
-⚙️ **External API**: OpenWeather API
+🔹 **External API**: OpenWeather API
 
-⚙️ **Programming Language**: Python 3.x
+🔹 **Programming Language**: Python 3.x
 
-⚙️ **Version Control**: Git
+🔹 **Version Control**: Git
 
-⚙️ **Environment Management**: Environment Variables
+🔹 **Environment Management**: Environment Variables
 
-⚙️ **Error Handling**: Custom error handling in Python
+🔹 **Error Handling**: Custom error handling in Python
 
-⚙️ **IAM Security**: Secure management of API keys and AWS credentials
+🔹 **IAM Security**: Secure management of API keys and AWS credentials
 
-⚙️ **Infrastructure as Code**: AWS resource management through scripts
+🔹 **Infrastructure as Code**: AWS resource management through scripts
 
 
 
@@ -80,34 +80,31 @@ bashCopyaws configure
 
 ---
 
-## **Key Takeaways**
+## **✔️ Keynotes ✔️**
 
-✔️ AWS S3 bucket creation and management
+🔹 AWS S3 bucket creation and management
 
-✔️ Environment variable management for secure API keys
+🔹 Environment variable management for secure API keys
 
-✔️ Python best practices for API integration
+🔹 Python best practices for API integration
 
-✔️ Git workflow for project development
+🔹 Git workflow for project development
 
-✔️ Error handling in distributed systems
+🔹 Error handling in distributed systems
 
-✔️ Cloud resource management
+🔹 Cloud resource management
 
-## **Opportunitues for Growth**
+## **🌱 Opportunitues for Growth 🌱**
 
-🌱 Add weather forecasting.
+🔹 Add weather forecasting.
 
-🌱 Implement data visualization
+🔹 Implement data visualization
 
-🌱 Add more cities
+🔹 Add more cities
 
-🌱 Create automated testing
+🔹 Create automated testing
 
-🌱 Set up CI/CD pipeline
+🔹 Set up CI/CD pipeline
 
 
-
----
-## **Technical Architecture**
 
