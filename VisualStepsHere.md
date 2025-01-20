@@ -33,7 +33,7 @@
   
    Enter cmd:
    ```bash
-WeatherDashboard
+mkdir WeatherDashboard
 ```   
 <img src="https://github.com/user-attachments/assets/97dec451-68ec-48bc-bf85-fa4f48414f63" width="75%" />
 
